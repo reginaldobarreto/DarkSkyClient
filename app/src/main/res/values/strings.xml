@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dark Sky Client</string>
+    <string name="alertTitle">Permissão Requerida</string>
+    <string name="alertMessage">É necessário aceitar as permissões para usar esse aplicativo</string>
+    <string name="alertPositiveButton">CONFIRMAR</string>
+</resources>
